@@ -1,20 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="62089728-5cfd-4cda-849a-f1b7ddb442a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/delino/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delino/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delino/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delino/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delino/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/migrations/0002_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/migrations/0003_alter_restorant_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/migrations/0004_order_gateway.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/foods/ScreenShot-2024-12-28_20-7-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/foods/ScreenShot-2024-12-30_22-12-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/pakages/ScreenShot-2024-12-30_22-43-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/0002_gateway.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delino/authentication.py" beforeDir="false" afterPath="$PROJECT_DIR$/delino/authentication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/re" beforeDir="false" afterPath="$PROJECT_DIR$/re" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/delino/settings.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/food/views.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ucFkhM8v8P93UcSMAfploaQtCW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,7 +75,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RunManager">
